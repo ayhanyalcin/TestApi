@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgWXq/u2ag/I/OcVb5LVvLBzKa0ToKzz03bKEZiTiUtjFbfwXdRCp9DekNAoo/NggCTyvayk0iIauC4v3uQGqQ==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\DockerKurs\\Projects\\TestApi\\TestApi\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\New\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
